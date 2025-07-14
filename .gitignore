@@ -1,0 +1,8 @@
+# Entorns virtuals  
+venv/  
+.env/  
+.venv/  
+
+# Arxius d'entorn  
+.env  
+.env.local  
